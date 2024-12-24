@@ -2,6 +2,11 @@
 
 A web application that scrapes trending topics from Twitter and displays them through a web interface.
 
+## Demo SS :: 
+![image](https://github.com/user-attachments/assets/1348c11d-f939-4122-a163-9f38a66139bd)
+![image](https://github.com/user-attachments/assets/5081c871-1058-46a9-9e04-0e4944f53bb1)
+
+
 ## Features
 - Scrapes top 5 trending topics from Twitter
 - Stores trend data in MongoDB
